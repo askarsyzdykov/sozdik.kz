@@ -1,4 +1,4 @@
-# my_app
+# sozdik.kz
 
 A new Flutter project.
 
