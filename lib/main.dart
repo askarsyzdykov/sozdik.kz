@@ -19,7 +19,6 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         primaryColor: const Color(0xFF2196f3),
         accentColor: const Color(0xFF2196f3),
-        canvasColor: const Color(0xFF797777),
       ),
       home: new MyHomePage(),
     );

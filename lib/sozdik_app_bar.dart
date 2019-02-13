@@ -121,6 +121,7 @@ class _SozdikAppBarState extends State<SozdikAppBar>
     return AppBar(
       automaticallyImplyLeading: false,
       centerTitle: false,
+      elevation: 0,
       leading: _isSearching ? const BackButton() : null,
       title: _isSearching ? _buildSearchField() : _Title(_toggleTheaters),
       actions: _buildActions(),
