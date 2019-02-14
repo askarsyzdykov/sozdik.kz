@@ -6,6 +6,11 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
+- Install Flutter environment
+- In Terminal 'git clone git@github.com:askarsyzdykov/sozdik.kz.git'
+- In Terminal 'flutter packages get'
+- Enjoy!
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
